@@ -1,10 +1,10 @@
-# SwiftUIViewAnimation
-## Introduction
-` SwiftUIViewAnimation ` is a gorgeous set of UIView Animations
+# 📱 SwiftUIViewAnimation
+## 📍 Introduction
+` SwiftUIViewAnimation ` is a gorgeous set of UIView Animations!
 
 </br>
 
-## Animation type
+## ✏️ Animation type
 | Animation | Animation | Animation |
 | ------ | ----- | ----- | 
 | 1. Fade In | 2. Fade Out | 3. Left to Right | 
@@ -49,8 +49,8 @@
 
 </br>
 
-## How to Use?
-1. Copy and Paste `git clone https://github.com/yeahsilver/SwiftUIViewAnimation.git `
+## 📝 How to Use?
+1. Copy and Paste `git clone https://github.com/yeahsilver/SwiftUIViewAnimation.git `.
 
 2. Create new project that you want to use ` SwiftUIViewAnimation ` 
 
