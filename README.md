@@ -32,7 +32,7 @@
 
 ### 4. Right to Left
 
-<img width="200"  src="https://user-images.githubusercontent.com/39258902/98962978-8428b500-254a-11eb-8d14-03b1a91c382e.gif">
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98967149-80e3f800-254f-11eb-86d3-207776ae5a10.gif">
 
 ### 5. Spring Left
 
