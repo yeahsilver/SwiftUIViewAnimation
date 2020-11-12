@@ -8,8 +8,44 @@
 | Animation | Animation | Animation |
 | ------ | ----- | ----- | 
 | 1. Fade In | 2. Fade Out | 3. Left to Right | 
-| 4. Right to Left | 5. Spring Left | 6. Srping Right |
-| 7. Expansion | 8. Top to Bottom | 9. Bottom to Top |
+| 4. Right to Left | 5. Spring Left | 6. Spring Right |
+| 7.  Top to Bottom | 
+
+</br>
+
+------
+
+</br>
+
+### 1. Fade In
+
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98962240-cd2c3980-2549-11eb-83af-ddd90cd58e60.gif">
+
+
+### 2. Fade Out
+
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98962790-55aada00-254a-11eb-8a4e-2e35b644daa9.gif">
+
+### 3. Left to Right
+
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98962978-8428b500-254a-11eb-8d14-03b1a91c382e.gif">
+
+### 4. Right to Left
+
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98962978-8428b500-254a-11eb-8d14-03b1a91c382e.gif">
+
+### 5. Spring Left
+
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98963633-2fd20500-254b-11eb-84b2-dd58b6937363.gif">
+
+### 6. Spring Right
+
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98964445-285f2b80-254c-11eb-9c60-977f9cc7ed5d.gif">
+
+### 7. Top to Bottom
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98965165-0dd98200-254d-11eb-87c1-14733bf7e0a7.gif">
+
+
 
 </br>
 
@@ -43,7 +79,10 @@
    
     ###### You will first write a animation number as referencing a chart above and a animationView as view that you want to animate
     
+    
     ![스크린샷 2020-11-13 오전 12 28 16](https://user-images.githubusercontent.com/39258902/98959912-20e95380-2547-11eb-9511-3ffd009b550e.png)
     
     
 8. Run your project!
+    #### It is too slow at first loading. Be patient when you run your awesome project first 
+   
