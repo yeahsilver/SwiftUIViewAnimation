@@ -36,7 +36,7 @@
 
 ### 5. Spring Left
 
-<img width="200"  src="https://user-images.githubusercontent.com/39258902/98963633-2fd20500-254b-11eb-84b2-dd58b6937363.gif">
+<img width="200"  src="https://user-images.githubusercontent.com/39258902/98967563-f51e9b80-254f-11eb-8ed1-f930997e2afc.gif">
 
 ### 6. Spring Right
 
