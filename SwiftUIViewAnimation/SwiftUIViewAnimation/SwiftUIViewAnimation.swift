@@ -23,11 +23,7 @@ open class SwiftUIViewAnimation: UIViewController{
         case 6:
             springRight(animationView: animationView);
         case 7:
-            expansion(animationView: animationView);
-        case 8:
             topToBottom(animationView: animationView);
-        case 9:
-            bottomToTop(animationView: animationView);
         default:
             print("No result")
         }
@@ -75,25 +71,9 @@ open class SwiftUIViewAnimation: UIViewController{
         }), completion: nil)
     }
     
-    private func expansion(animationView: UIView){
-        UIView.animate(withDuration: 1.0, animations: {
-            animationView.alpha = 0
-            UIView.animate(withDuration: 2.0, animations: { [self] in
-                animationView.alpha = 1
-                animationView.frame = CGRect(x: 0, y: 0, width: self.view.frame.width, height: view.frame.height)
-            })
-        })
-    }
-    
     private func topToBottom(animationView: UIView){
         UIView.animate(withDuration: 0.5, delay: 0, usingSpringWithDamping: 1.0, initialSpringVelocity: 1.0, options: .curveEaseOut, animations: {
             animationView.frame = CGRect(x: 0, y: UIScreen.main.bounds.size.height, width: UIScreen.main.bounds.size.width, height: self.view.frame.height)
-        }, completion: nil)
-    }
-    
-    private func bottomToTop(animationView: UIView){
-        UIView.animate(withDuration: 1.0, delay: 0, usingSpringWithDamping: 1.0, initialSpringVelocity: 1.0, options: .curveEaseOut, animations: {
-            animationView.frame = CGRect(x: 0, y: self.view.frame.origin.y + animationView.frame.size.height + 20, width: UIScreen.main.bounds.size.width, height: UIScreen.main.bounds.size.height - animationView.frame.size.height - 20)
         }, completion: nil)
     }
 }
